@@ -717,7 +717,7 @@ header nav ul li a{
 #video h2{
 	padding-top: 100px;
 }
-#video video{
+#video iframe{
 	margin: 82px 0 210px 0;
 }
 #team{
